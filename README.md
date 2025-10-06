@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Naeem Amin
 
+![](https://komarev.com/ghpvc/?username=Naeem125)
 <!--
 **Naeem125/Naeem125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
