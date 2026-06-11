@@ -3,7 +3,7 @@
 
 <p align="center">
   🚀 <strong>Full Stack Engineer</strong><br/>
-  💼 3+ years of experience building scalable, secure, and high-performance web & mobile applications.<br/>
+  💼 4+ years of experience building scalable, secure, and high-performance web & mobile applications.<br/>
   📍 Based in Lahore, Pakistan | 🌐 Open to remote & freelance opportunities.<br/>
 </p>
 
@@ -27,7 +27,7 @@
 <p align="center">
   ⚡ Skilled at building full-stack web apps, REST APIs, and mobile apps.<br/>
   🌱 Currently exploring <strong>AWS, Supabase, and AI-powered integrations</strong>.<br/>
-  💬 Ask me about <strong>React, Next.js, Node.js, or scalable backend design</strong>.
+  💬 Ask me about <strong>React, Next.js, Node.js, Shopify or scalable backend design</strong>.
 </p>
 
 ---
@@ -45,6 +45,8 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img alt="Shopify Storefront API" src="https://img.shields.io/badge/-Storefront%20API-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
